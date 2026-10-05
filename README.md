@@ -1,22 +1,21 @@
-# Hi, I'm Dmitry 👋
+# Dmitry Timofeev
 
-**Full-stack & React Native engineer** from Estonia. I turn product ideas into apps
-people actually use — shipped to the App Store and Google Play.
+React Native and full-stack TypeScript engineer in Estonia. Since 2024 I've been the lead developer of a live parental-control app on iOS and Android: 99.9% crash-free, 4.5 stars, a release every month.
 
-### 🚀 What I'm building
-- **[Cocopine](https://www.cocopine.app/)** — parental-control app for YouTube (React Native · Next.js · Node.js). *Lead developer.*
-- **junico** — custom cosmetics e-commerce store (Node.js · Next.js).
-- **DaoWay** — AI-powered astrology planner (React Native).
-- **Sparly** — Swedish fintech: gamified money-saving habits (React Native).
+### Recent work
+- **[Cocopine](https://apps.apple.com/app/id6469459216)**, parental control for YouTube. Lead developer since October 2024: React Native (Expo) app, Node.js backend on Fastify, PostgreSQL, Redis and BullMQ. Took it over a year after launch and made it stable.
+- **AI Chrome extension for in-house recruiters**, a client product. Sole developer since November 2025, preparing for launch: React, Next.js, Supabase, OpenAI API, LLM evals.
+- **junico**, a custom cosmetics e-commerce store on Next.js, Node.js and MongoDB. [Demo](https://junico-demo.majorsrc.com)
 
-### 🛠 Tech
-`TypeScript` · `React Native (Expo)` · `Next.js` · `Node.js / Nest.js` · `PostgreSQL` ·
-`Firebase` · `Supabase` · `GraphQL` · `Docker` · `AWS`
-**Testing:** Jest · Detox · Playwright · Maestro
+### Stack
+TypeScript · React Native (Expo) · React · Next.js · Node.js (NestJS, Fastify) · PostgreSQL · Prisma · MongoDB · Redis · Supabase · Firebase · GraphQL (Apollo) · Docker · AWS
 
-### 📈 A bit about me
-5+ years of experience · 100+ freelance projects delivered at a consistent 5★ rating ·
-I care about clean CI/CD and shipping things that stay shippable.
+**Testing:** Jest · Vitest · Playwright · Maestro
 
-### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/rmltsn/) · [majorsrc.com](https://majorsrc.com) · fendermany@gmail.com
+**Monitoring:** Sentry · PostHog · Prometheus · Grafana · OpenTelemetry
+
+### About
+5+ years of commercial development and 100+ freelance projects since 2021 with a 5-star rating. I set the architecture and review every change; Claude Code writes most of the code.
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/rmltsn/) · [majorsrc.com](https://majorsrc.com) · dmitry@majorsrc.com
